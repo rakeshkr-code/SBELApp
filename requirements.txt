@@ -1,0 +1,9 @@
+Jinja2
+Flask
+Flask-SQLAlchemy
+Flask-RESTful
+matplotlib
+numpy
+Flask-Bcrypt
+requests
+flask-login
